@@ -29,6 +29,7 @@ Shark attacks, though rare, can be catastrophic for beachgoers. **Its-A-Shark** 
   - Git & GitHub (version control)
   - Jupyter Notebooks (for experimentation)
 
+## Links
 Link to they Jupyter Notebook
 https://colab.research.google.com/drive/1o8r9DWr8BlEPXdbmp4ZM0qDZGbf5QKoS
 
