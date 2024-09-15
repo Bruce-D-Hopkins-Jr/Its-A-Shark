@@ -6,12 +6,7 @@
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Tech Stack](#tech-stack)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Future Enhancements](#future-enhancements)
-7. [Contributing](#contributing)
-8. [License](#license)
-
+   
 ## Project Overview
 Shark attacks, though rare, can be catastrophic for beachgoers. **Its-A-Shark** leverages AI-driven shark detection using video or camera footage to identify different species of sharks near the shore, and promptly alerts lifeguards. The goal is to provide ample warning time to potentially prevent attacks, enhancing beach safety.
 
